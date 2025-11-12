@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+#.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -253,10 +253,6 @@ logs/
 models/*.pkl
 models/*.h5
 models/*.joblib
-
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
 
 # Testing
 .pytest_cache/
